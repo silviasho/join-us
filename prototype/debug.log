@@ -1,0 +1,8 @@
+[1028/205147.590:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1031/165216.295:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/133151.491:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/133151.494:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\silvia\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ba3c7055-2fbb-4f95-9203-e85eaa764a2e: The system cannot find the path specified. (0x3)
+[1115/221914.737:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1120/143731.266:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1123/201858.038:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1208/170744.935:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
